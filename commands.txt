@@ -1,0 +1,25 @@
+My git commands
+
+echo "# mrepo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/patilsanthosh/mrepo.git
+git push -u origin main
+
+
+git remote add origin https://github.com/patilsanthosh/mrepo.git
+git branch -M main
+git push -u origin main
+
+First commit procedure.
+66  git init
+   67  ls
+   68  git status
+   69  git add hello.java
+   70  git status
+   71  git commit -m "first commit"
+   72  git remote add origin https://github.com/patilsanthosh/mrepo.git
+   73  git remote -v
+   74  git push origin master
