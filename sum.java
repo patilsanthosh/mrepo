@@ -10,6 +10,7 @@ class sum
 	int div=0;
 	sum=a+b; 
 	sum=a+b;
+	
 	sub=a-b;
 	mul=a*b;
 	div=a/b;
