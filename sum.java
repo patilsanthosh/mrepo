@@ -8,6 +8,7 @@ class sum
 	int sub=0;
 	int mul=0;
 	int div=0;
+	sum=a+b; 
 	sum=a+b;
 	sub=a-b;
 	mul=a*b;
